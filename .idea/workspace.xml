@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6229d151-7eed-4397-9989-7b29da9ff64e" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calendar/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/main/java/com/seb/Core.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/main/java/com/seb/JsonSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/main/java/com/seb/RunLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/main/java/com/seb/exception/InvalidKeyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/main/java/com/seb/exception/InvalidObjectException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logger/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logger/src/main/java/com/seb/LogEncryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logger/src/main/java/com/seb/LogLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logger/src/main/java/com/seb/LogSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logger/src/main/java/com/seb/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2b2VjMwOz2mmnWjqOTD7PwgvRxP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/SJERKE/IdeaProjects/sebcore/IO/src/main/java/com/seb",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/SJERKE/IdeaProjects/sebcore/IO/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SJERKE\IdeaProjects\sebcore\IO\src\main\java\com\seb" />
+      <recent name="C:\Users\SJERKE\IdeaProjects\sebcore" />
+      <recent name="C:\Users\SJERKE\IdeaProjects\sebcore\Logger\src\main\java\com\seb" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6229d151-7eed-4397-9989-7b29da9ff64e" name="Changes" comment="" />
+      <created>1705413296798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705413296798</updated>
+      <workItem from="1705413297885" duration="703000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Logger/src/main/java/com/seb/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calendar/src/main/java/org/example/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IO/src/main/java/org/example/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
